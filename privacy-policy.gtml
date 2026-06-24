@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kickoff — Privacy Policy</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 720px; margin: 0 auto; padding: 32px 20px 80px; color: #1C1C1E; line-height: 1.6; }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  .effective { color: #AEAEB2; font-size: 13px; margin-bottom: 32px; }
+  h2 { font-size: 18px; margin-top: 28px; margin-bottom: 8px; }
+  p { font-size: 15px; color: #3A3A3C; white-space: pre-line; }
+  a { color: #FF3B30; }
+</style>
+</head>
+<body>
+  <h1>Kickoff — Privacy Policy</h1>
+  <div class="effective">Effective June 22, 2026</div>
+
+  <h2>Introduction</h2>
+  <p>This Privacy Policy explains how Kickoff ("we", "us", "the App") collects, uses, and shares information when you use our mobile application. By using Kickoff, you agree to the practices described below. Kickoff is a global sports schedule, streaming-link, and community app and is not directed at children under 13.</p>
+
+  <h2>Information We Collect</h2>
+  <p>• Account information: if you sign in with Google, we receive your name, email address, and profile photo from Google. If you do not sign in, we assign an anonymous identifier so your votes and comments can still sync.
+• User content: display name, avatar selection, sport preferences, poll votes, and comments you post are stored so they can be shown to other users and synced across your devices.
+• Usage and analytics data: we use Firebase Analytics to collect app usage events (e.g. matches viewed, polls voted, comments posted, ads watched, subscription screens viewed) and standard device/diagnostic information (device model, OS version, crash logs, approximate region).
+• Advertising data: we use Google AdMob to show ads. AdMob may collect your advertising identifier and use it, along with other signals, to serve and measure ads, subject to your device's ad-tracking settings.
+• Purchase data: if you subscribe to Kickoff Pro, our payment processor (RevenueCat, on top of the Apple App Store / Google Play billing systems) processes your purchase and subscription status. We do not receive or store your payment card details.
+• Notification data: if you enable match reminders, we schedule local notifications on your device. If you enable push notifications, a device token may be stored so we can deliver match alerts.</p>
+
+  <h2>How We Use Information</h2>
+  <p>We use the information above to: operate core features (schedules, votes, comments, reminders); sync your preferences across devices; personalize your home feed around the sports you follow; measure and improve app performance and reliability; show and measure advertising; process subscription purchases and entitlements; and communicate with you if you contact us for support.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>Kickoff relies on the following third-party services, each governed by their own privacy policy:
+• Google Firebase (Authentication, Firestore database, Analytics, Cloud Messaging) — <a href="https://firebase.google.com/support/privacy">https://firebase.google.com/support/privacy</a>
+• Google AdMob (advertising) — <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>
+• RevenueCat (subscription management) — <a href="https://www.revenuecat.com/privacy">https://www.revenuecat.com/privacy</a>
+• ESPN public sports data API — used only to display public match schedules and scores; no personal data is sent to this API.</p>
+
+  <h2>Data Sharing &amp; Disclosure</h2>
+  <p>We do not sell your personal information. We share information only with the service providers listed above as necessary to operate the app, or if required by law, to protect the rights and safety of Kickoff and its users, or in connection with a merger, acquisition, or sale of assets (with notice to you).</p>
+
+  <h2>Data Retention</h2>
+  <p>We retain account and content data for as long as your account is active. You can delete your locally stored data at any time from Profile → Clear Data. To request deletion of your account and associated server-side data (votes, comments, profile), contact us using the details below.</p>
+
+  <h2>Children's Privacy</h2>
+  <p>Kickoff is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please contact us so we can delete it.</p>
+
+  <h2>Your Rights &amp; Choices</h2>
+  <p>Depending on your region, you may have the right to access, correct, export, or delete your personal data, and to object to or restrict certain processing. You can opt out of personalized advertising in your device settings (Settings → Privacy → Ads on iOS, or Settings → Ads on Android). You can disable notifications at any time from Profile → Notifications. To exercise any other privacy right, contact us below.</p>
+
+  <h2>Security</h2>
+  <p>We use industry-standard safeguards (including encryption in transit and access controls provided by Firebase) to protect your information. No method of transmission or storage is 100% secure, and we cannot guarantee absolute security.</p>
+
+  <h2>International Data Transfers</h2>
+  <p>Your information may be processed in countries other than your own, including the United States, where our service providers operate. We rely on the safeguards those providers offer (such as Google's standard contractual clauses) for international transfers.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Material changes will be reflected by updating the effective date above, and significant changes may be announced in-app.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have questions about this Privacy Policy or want to exercise a privacy right, contact us at <a href="mailto:support@kickoff.app">support@kickoff.app</a>.</p>
+</body>
+</html>
